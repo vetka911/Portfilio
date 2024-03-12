@@ -11,6 +11,6 @@ MS SQL(вложенные запросы, оконные функции, CTE), P
 
 Мои сертификаты:
 - "Поколение Python": курс для начинающих: https://stepik.org/cert/2167894
-- Анализ данных на языке SQL. Уровень 2: ttps://www.specialist.ru/graduate/groupcert/2510382
+- Анализ данных на языке SQL. Уровень 2: https://www.specialist.ru/graduate/groupcert/2510382
 - Построение аналитических отчетов на базе BI платформы Qlik Sense: https://www.specialist.ru/graduate/groupcert/2510384
 
