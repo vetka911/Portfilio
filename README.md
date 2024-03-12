@@ -14,4 +14,8 @@ MS SQL(вложенные запросы, оконные функции, CTE), P
 - Анализ данных на языке SQL. Уровень 2: https://www.specialist.ru/graduate/groupcert/2510382
 - Построение аналитических отчетов на базе BI платформы Qlik Sense: https://www.specialist.ru/graduate/groupcert/2510384
 - DA - 100: Анализ данных в PowerBI: https://www.specialist.ru/graduate/groupcert/2325815
+- Microsoft Excel 2019/2016. Уровень 8. Углублённое изучение DAX и Excel Power Pivot: https://www.specialist.ru/graduate/groupcert/2032907
+- Анализ данных на языке SQL: https://www.specialist.ru/graduate/groupcert/2222253
+- Практикум: Создание запросов Power Query в MS Excel: https://www.specialist.ru/graduate/groupcert/2221732
+- Excel Business Intelligence Part 1: Power Query: http://www.linkedin.com/learning/excel-business-intelligence-part-1-power-query
 
