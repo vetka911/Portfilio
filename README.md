@@ -13,4 +13,5 @@ MS SQL(вложенные запросы, оконные функции, CTE), P
 - "Поколение Python": курс для начинающих: https://stepik.org/cert/2167894
 - Анализ данных на языке SQL. Уровень 2: https://www.specialist.ru/graduate/groupcert/2510382
 - Построение аналитических отчетов на базе BI платформы Qlik Sense: https://www.specialist.ru/graduate/groupcert/2510384
+- DA - 100: Анализ данных в PowerBI: https://www.specialist.ru/graduate/groupcert/2325815
 
