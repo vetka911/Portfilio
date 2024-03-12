@@ -8,3 +8,7 @@
 SAP ERP (FI, CO, TRM), SAP BW, SAP BPC, 1С,
 Power Query, Power Pivot, Power BI, Qlik Sense, Anaplan,
 MS SQL(вложенные запросы, оконные функции, CTE), Python(numpy, pandas, matplotlib, sklearn).
+
+Мои сертификаты:
+- "Поколение Python": курс для начинающих: https://stepik.org/cert/2167894
+
