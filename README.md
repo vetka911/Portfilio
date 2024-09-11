@@ -33,22 +33,22 @@ MS SQL(вложенные запросы, оконные функции, CTE), P
 - Построение аналитических отчетов на базе BI платформы Qlik Sense: https://www.specialist.ru/graduate/groupcert/2510384
 
 Мои сертификаты по программированию:
-<br>SQL:
+
 - Анализ данных на языке SQL. Уровень 2: https://www.specialist.ru/graduate/groupcert/2510382
 - Анализ данных на языке SQL: https://www.specialist.ru/graduate/groupcert/2222253
 - Основы SQL: https://netology.ru/sharing/5258c6705455aa03ece6d3d0f050cf61?utm_source=social&utm_campaign=achievements
 - SQL и получение данных: https://netology.ru/sharing/a6915d5a9c339ee0a9b158fe8fb3847d?utm_source=social&utm_campaign=achievements
-<br>Python:
+
 - Основы Python: https://netology.ru/sharing/75346be14ae2346cf419288069321e8b?utm_source=social&utm_campaign=achievements
 - Статистика в Python: https://netology.ru/sharing/37267e498591ff4a7f9d50c3e7354f3d?utm_source=social&utm_campaign=achievements
 - Библиотеки Python для анализа данных: https://netology.ru/sharing/b66ce2e75a182e0717a7ad82111e2cd8?utm_source=social&utm_campaign=achievements
 - "Поколение Python": курс для начинающих: https://stepik.org/cert/2167894
-<br>MS Power Query/Power Pivot:
+
 - Microsoft Excel 2019/2016. Уровень 8. Углублённое изучение DAX и Excel Power Pivot: https://www.specialist.ru/graduate/groupcert/2032907
 - Практикум: Создание запросов Power Query в MS Excel: https://www.specialist.ru/graduate/groupcert/2221732
 - Excel Business Intelligence Part 1: Power Query: http://www.linkedin.com/learning/excel-business-intelligence-part-1-power-query
 - Microsoft Excel 2019/2016. Уровень 6. Бизнес - аналитика с использованием PowerPivot, PowerView и PowerMap: https://www.specialist.ru/graduate/groupcert/2023438
-<br>RPA:
+
 - Robotic Process Automation: Tech Primer: http://www.linkedin.com/learning/robotic-process-automation-tech-primer
 - UiPath: Robotic Process Automation (RPA): http://www.linkedin.com/learning/uipath-robotic-process-automation-rpa
 
