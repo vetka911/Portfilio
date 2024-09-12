@@ -27,6 +27,7 @@ MS SQL(вложенные запросы, оконные функции, CTE), P
 - Системное управление процессами и командой: https://netology.ru/sharing/71b1f5c99fe590ffdc7eafaf41ada110?utm_source=social&utm_campaign=achievements
 
 Мои сертификаты по визуализации данных:
+- 2023 - Технологии Доверия - Консультирование: Подготовка эффективных управленческих отчетов
 - Визуализация данных: от скучных графиков к интерактивным дашбордам: https://netology.ru/sharing/8fcfab7773c088f0742bf3796f84ccc5?utm_source=social&utm_campaign=achievements
 - Power BI: анализ и визуализация данных без программирования https://netology.ru/sharing/494bf250aebb647ceb9790ca808294e4?utm_source=social&utm_campaign=achievements
 - Анализ данных в PowerBI: https://www.specialist.ru/graduate/groupcert/2325815
