@@ -18,7 +18,7 @@ MS SQL(вложенные запросы, оконные функции, CTE), P
 
 Мои профессиональные квалификации:
 - 2024 - Association of Chartered Certified Accountants, Certificate in Taxation in the Russian Federation & Certificate in Corporate and Business Law
-- ACCA(ENG)_ExamHistoryTranscript: https://drive.google.com/file/d/19dSCLnUcVG5tpFg6nRd_5fqTi91KotXs/view?usp=sharing
+- 2019/2024 - ACCA(ENG)_ExamHistoryTranscript: https://drive.google.com/file/d/19dSCLnUcVG5tpFg6nRd_5fqTi91KotXs/view?usp=sharing
 - 2018 - Association of Chartered Certified Accountants, Diploma in international financial reporting
 - 2012 - Chartered Institute of Management Accountants, Diploma in performance management in Russian
 
